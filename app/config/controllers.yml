@@ -1,0 +1,6 @@
+services:
+#    website.controller.example:
+#        class: Namespace\Controller\Example
+#        arguments:
+#            - @templating
+#            - @router
