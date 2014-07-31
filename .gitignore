@@ -9,3 +9,8 @@
 /vendor/
 /bin/
 /composer.phar
+
+#frontend
+node_modules/
+bower_components/
+web
